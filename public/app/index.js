@@ -22,6 +22,6 @@ const getRandomNumber = (num) => {
 };
 
 function showAlert() {
-  var myText = "Yayy!";
+  var myText = "Yayy MOOO to maaan gyiiiiiii XD !!!!!";
   alert(myText);
 }
